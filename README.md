@@ -1,8 +1,8 @@
 # This is a react project build to understand the basics of React
-Creating Components Class and Functional
-Fetching data from fake api
-Map and Filtering Data
-Adding Search Functionalty
+Creating Components Class and Functional \
+Fetching data from fake api \
+Map and Filtering Data \
+Adding Search Functionalty \
 
 
 
