@@ -2,7 +2,7 @@
 Creating Components Class and Functional \
 Fetching data from fake api \
 Map and Filtering Data \
-Adding Search Functionalty \
+Adding Search Functionalty
 
 
 
