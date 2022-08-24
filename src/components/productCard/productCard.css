@@ -1,0 +1,23 @@
+.product-card {
+  width: 300px;
+  padding: 1rem;
+  margin: 10px;
+  background-color: #9b2e2e;
+  box-shadow: 4px 4px 4px #bbb5b5;
+  color: #ffe;
+}
+
+.product-card img {
+  /* max-width: 100%; */
+  width: 200px;
+  height: 200px;
+}
+
+button {
+  display: block;
+  background-color: black;
+  padding: 5px;
+  color: #ffe;
+  font-size: 1rem;
+  box-shadow: 3px 3px 3px #252525;
+}

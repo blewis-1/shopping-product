@@ -1,0 +1,19 @@
+nav {
+  background-color: #b53636;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  box-shadow: 4px 4px 4px #bd6565 ;
+  padding: 10px 0;
+  text-transform: uppercase;
+  
+}
+
+nav input {
+  padding: 5px;
+  border-color: none;
+}
+
+nav p {
+font-size: 2rem;
+}
